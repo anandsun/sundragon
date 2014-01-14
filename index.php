@@ -6,8 +6,8 @@
   </head>
   <body>
     <div class = "btn-group btn-group-horizontal">
-      <button type="button" name="about" id="about" class="btn btn-primary" />
-      <button type="button" name="math" id="math" class="btn btn-success" />
+      <button type="button" name="about" id="about" class="btn btn-primary">About</button>
+      <button type="button" name="math" id="math" class="btn btn-success">Math</button>
     </div>
     <p>Hi</p>
   </body>
